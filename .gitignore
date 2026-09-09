@@ -1,0 +1,10 @@
+data/twcs.csv
+data/apple_pairs.csv
+data/golden_annotation*.csv
+evaluation/golden_annotation*.csv
+artifacts/
+models/
+.venv/
+__pycache__/
+*.pyc
+.env
