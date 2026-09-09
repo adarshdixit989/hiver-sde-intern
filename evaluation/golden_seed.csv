@@ -1,0 +1,13 @@
+example_id,customer_message,gold_intent,gold_escalate,gold_escalation_reason
+119250,"@AppleSupport hi #apple, I’ve a concern about the latest ios is too slow on #iphone6 and i am not happy with it. Any solution please?",ios_update_performance,False,routine_support
+119253,"I just updated my phone and suddenly everything takes ages to load wtf @76099 this update sux I hate it fix it bye",ios_update_performance,False,routine_support
+119268,"Okay @76099 I used my phone for 2 minutes and it drains it down 8 percent",battery_drain,False,routine_support
+119270,"@AppleSupport Can you get my iPhone 7plus back on the old iOS please? Battery runs out in half the time, apps now frequently crash.",battery_drain,True,hardware_or_repeated_support_failure
+119280,"So the new @76099 update does not let me listen to music and go on whatsapp at the same time?!?",app_compatibility,False,routine_support
+119292,"#ios11update - is still killing my battery within 12 hours - phone is 10 months old - it’s a disgrace - used to get 2 days",battery_drain,False,routine_support
+119299,"Took my phone off charge at 7:20am. 8:03am - 60% battery remaining. @76099 plz I beg you, sort your battery life out",battery_drain,False,routine_support
+119301,"@76099 @AppleSupport fix this update. It’s horrible",ios_update_performance,False,routine_support
+119324,"@AppleSupport I have the latest version iOS. It started immediately after I updated my phone.",ios_update_performance,False,routine_support
+119326,"My apps stop working without warning and my phone freezes every five minutes! Love the new update @76099!!!!",ios_update_performance,True,hardware_or_repeated_support_failure
+119263,"@AppleSupport after the 11.0.2 my phone just sucks most of the apps are broken, wifi disconnects frequently #apple #ios1102 #painfulupdate",wifi_connectivity,True,hardware_or_repeated_support_failure
+119250,"@AppleSupport hi #apple, I’ve a concern about the latest ios is too slow on #iphone6 and i am not happy with it. Any solution please?",ios_update_performance,False,routine_support
